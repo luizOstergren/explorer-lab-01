@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "button-type": "off"
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 105",
+    "not chrome <= 106",
+    "not edge <= 106",
+    "not firefox <= 105",
+    "not safari <= 16",
+    "not samsung <= 18",
+    "not and_ff <= 104"
+  ]
+}
